@@ -1,0 +1,25 @@
+{
+  "name": "drata_2",
+  "version": "1.0.0",
+  "description": "Drata Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JJDrill/drata_2.git"
+  },
+  "author": "J. Drill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JJDrill/drata_2/issues"
+  },
+  "homepage": "https://github.com/JJDrill/drata_2#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "octokit": "^1.7.1"
+  }
+}
